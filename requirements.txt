@@ -1,0 +1,7 @@
+# Ski Load Cell System – Python dependencies
+# Install with:  pip install -r requirements.txt
+
+pyserial>=3.5
+matplotlib>=3.7
+numpy>=1.24
+pyinstaller>=6.0
